@@ -4,9 +4,9 @@
 =================================================================
 
 Anaconda Prompt가 잘 설치되어 있다는 전제하에
-1. Anaconda Prompt에서 가상환경을 활성화시킨다
+1. Anaconda Prompt에서 가상환경을 활성화시킨다 / 가상 환경을 안 만들어 놨으면 conda create -n "name" 으로 가상환경을 만들어 주자
 2. 새로운 가상환경을 활성화 시킨거라면 conda install django 명령어로 Django를 설치한 후
-3. 설치한 경로\self_introduction\ 에서 python manage.py runserver 명령어를 입력한다.
+3. 설치 경로\self_introduction\ 에서 python manage.py runserver 명령어를 입력한다.
 4. 출력된 주소를 복사해 인터넷 주소창에 붙여넣으면 만들어진 웹페이지가 열립니다.
 
 -웹페이지 설명-
